@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "gato"
+    "description": "un gato muy cuco"
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/gato.jpg"
+  },
+  {
+    "name": "perro"
+    "description": "un perro muy cuco"
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/perro.jpg"
+  },
+  {
+    "name": "koala"
+    "description": "un koala muy cuco"
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/koala.jpg"
+  },
+  {
+    "name": "mapache"
+    "description": "un mapache muy cuco"
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/mapache.jpg"
+  },
+  {
+    "name": "panda"
+    "description": "un panda muy cuco"
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/panda.jpg"
+  },
