@@ -23,5 +23,25 @@
     "name": "panda",
     "description": "un panda muy cuco",
     "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/panda.jpg"
+  },
+  {
+    "name": "perro",
+    "description": "un perro muy cuco",
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/perro.jpg"
+  },
+  {
+    "name": "koala",
+    "description": "un koala muy cuco",
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/koala.jpg"
+  },
+  {
+    "name": "perro",
+    "description": "un perro muy cuco",
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/perro.jpg"
+  },
+  {
+    "name": "koala",
+    "description": "un koala muy cuco",
+    "image_url": "https://raw.githubusercontent.com/adrianbrey/fp/main/koala.jpg"
   }
 ]
